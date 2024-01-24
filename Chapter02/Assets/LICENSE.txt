@@ -1,5 +1,4 @@
-These sprites were designed by Jacob Zinman-Jeanes (http://jeanes.co) for Gamedevtuts+ (http://gamedev.tutsplus.com/).
+These sprites were designed by Example name (website.unity) for Gamers interest in historical events..
 
-To find out more about what's in this mini sprite pack, check out this post: http://gamedev.tutsplus.com/articles/news/enjoy-these-totally-free-space-based-shoot-em-up-sprites/
-
-These sprites are licensed under the CC BY 3.0 license: http://creativecommons.org/licenses/by/3.0/
+To find out more about what's in this, check out this post on the website.
+These are licensed under Example.
